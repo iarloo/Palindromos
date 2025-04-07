@@ -1,0 +1,3 @@
+/home/iarlo/Desktop/Lista_ED1/Palindromos/cmake-build-debug/CMakeFiles/Palindromos.dir
+/home/iarlo/Desktop/Lista_ED1/Palindromos/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/iarlo/Desktop/Lista_ED1/Palindromos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
